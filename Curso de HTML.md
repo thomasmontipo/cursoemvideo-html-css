@@ -30,7 +30,7 @@ Para quebra de linha insira < br > (broke row)
 
 **Saída**
 
-![image alt text](https://github.com/thomasmontipo/curso-em-video-HTML-CSS/blob/estudo-html-css/images/image1.png?raw=true)
+![saída](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image1.png?raw=true)
 
 ## Imagens
 
@@ -48,7 +48,7 @@ Onde src= significa source ou "fonte" e alt= é a legenda para casos de acessibi
 
 Podemos adicionar imagens da mesma pasta que está o arquivo, clicando apenas ctrl + barra de espaço e selecionando o arquivo:
 
-![image alt text](image_1.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image2.png?raw=true)
 
 Ou adicionar de uma pasta clicando na pasta e na imagem desejada ou colocar de um link externo (da web) apenas colocando a URL da imagem dentro de src="”
 
@@ -70,7 +70,7 @@ Para inserir comandos rápidos, basta digitar ctrl + Shift + P, selecionar "Queb
 
 **Saída:**
 
-![image alt text](image_2.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image3.png?raw=true)
 
 ## Formatações
 
@@ -378,7 +378,7 @@ Página 3
 
 Saída:
 
-![image alt text](image_3.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image4.png?raw=true)
 
 ## Adicionar vídeos
 
@@ -438,25 +438,25 @@ Círculo cromático
 
 Simetria é muito importante, traz a beleza para as coisas!
 
-![image alt text](image_4.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image5.png?raw=true)
 
 ### Cores primárias
 
-![image alt text](image_5.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image6.png?raw=true)
 
 ### Cores secundárias
 
-![image alt text](image_6.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image7.png?raw=true)
 
 ### Cores terciárias
 
 Cores terciárias estão entre uma cor primária e uma cor secundária. Para escrever o nome da cor, coloca-se primeiro o nome da cor primária e depois o nome da cor secundária
 
-![image alt text](image_7.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image8.png?raw=true)
 
 ### Temperaturas de cores
 
-![image alt text](image_8.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image9.png?raw=true)
 
 ### Paleta de cores
 
@@ -468,23 +468,23 @@ Paleta é de 3 a 5 cores, mas o recomendado são 4 cores!
 
 É a cor exatamente oposta no ciclo cromática.
 
-![image alt text](image_9.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image10.png?raw=true)
 
 ### Cores análogas
 
-![image alt text](image_10.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image11.png?raw=true)
 
 	Escolha uma cor e as duas imediatamente ao lado direito e esquerdo.
 
 ### Cores análogas e uma complementar
 
-![image alt text](image_11.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image12.png?raw=true)
 
 Técnica utilizada para criar uma paleta, pega-se as cores análogas e uma complementar.
 
 ### Cores Análogas Relacionadas
 
-![image alt text](image_12.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image13.png?raw=true)
 
 Pega-se duas cores análogas, pula-se uma cor e pega a outra conforme imagem acima, isso pode acontecer para qualquer lado.
 
@@ -492,23 +492,23 @@ Pega-se duas cores análogas, pula-se uma cor e pega a outra conforme imagem aci
 
 Pega-se uma e pula a outra
 
-![image alt text](image_13.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image14.png?raw=true)
 
 ### Cores triádicas
 
 Pega-se uma, pula-se 3:
 
-![image alt text](image_14.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image15.png?raw=true)
 
 ### Cores tetrádicas
 
-![image alt text](image_15.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image16.png?raw=true)
 
 ### Monocromia (degradê)
 
 Escolha uma cor e depois altere a saturação e a luminosidade (Utilizar o HSL) para isso.
 
-![image alt text](image_16.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image17.png?raw=true)
 
 ## Ferramentas para design
 
@@ -554,6 +554,8 @@ Coloca uma borda no objeto argumentos ( deslocamento direita (5px); deslocamento
 
 ### Padding
 
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image18.png?raw=true)
+
 	Exemplo: padding: 10px;
 
 	Acolchoamento, distancia do objeto interno para o objeto externo
@@ -581,20 +583,19 @@ Coloca uma borda no texto argumentos (deslocamento direita (1px); deslocamento p
 Módulo 2 capítulo 14 aula 1
 
 ### Anatomia do tipo
-
-![image alt text](image_17.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image19.png?raw=true)
 
 #### Componentes geométricos
 
-![image alt text](image_18.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image20.png?raw=true)
 
 #### Componentes anatômicos
 
-![image alt text](image_19.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image21.png?raw=true)
 
 ### Categorias das fontes
 
-![image alt text](image_20.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image22.png?raw=true)
 
 ### Font-family
 
@@ -682,7 +683,7 @@ Argumetos possíveis: underline, overline, line-through, underline [color]
 
 ## Importando fontes externas
 
-Para importar, acesse o site [https://fonts.google.com/](https://fonts.google.com/) e escolha a fonte, depois selecione no ícone de + as configurações desejadas e por fim clique em ![image alt text](image_21.png) e depois em "importe". Copie o código entre as tags <style></style> e cole no CSS.
+Para importar, acesse o site [https://fonts.google.com/](https://fonts.google.com/) e escolha a fonte, depois selecione no ícone de + as configurações desejadas e por fim clique em ![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image23.png?raw=true) e depois em "importe". Copie o código entre as tags <style></style> e cole no CSS.
 
 Exemplo: Importando a fonte roboto
 
@@ -826,7 +827,7 @@ Em CSS
 
 Saída
 
-![image alt text](image_22.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image24.png?raw=true)
 
 ## Pneudo-Class em HTML
 
@@ -905,7 +906,7 @@ a:active{
 
 Saída
 
-![image alt text](image_23.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image25.png?raw=true)
 
 ## > Children
 
@@ -935,31 +936,31 @@ width -> Largura
 
 height -> Altura
 
-![image alt text](image_24.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image26.png?raw=true)
 
 ## Border
 
 É a borda do elemento e fica colada na caixa
 
-![image alt text](image_25.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image27.png?raw=true)
 
 ## Padding 
 
 É um espaço interno que distanciam a borda e a caixa. Pode ser calculada em qualquer uma das dimensões (top, botton, right and left)
 
-![image alt text](image_26.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image28.png?raw=true)
 
 ## Margin
 
 É um espaço externo da borda. Pode ser calculada em qualquer uma das dimensões (top, botton, right and left)
 
-![image alt text](image_27.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image29.png?raw=true)
 
 Outline
 
 É um tracejado fora da borda, mas dentro do tracejado do margin. Sua tradução é contorno ou traçado. A borda é dentro do elemento, o traçado (outline) é fora do elemento. 
 
-![image alt text](image_28.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image30.png?raw=true)
 
 Tipos de caixas
 
@@ -970,7 +971,7 @@ Tipos de caixas
   </tr>
   <tr>
     <td>Sempre se inicia numa nova linha;
-
+  
 Sempre ocupa a largura total da tela, portanto se o navegador estiver em tela cheia, ocupará toda a tela. Caso esteja em tela pequena, tipo meio a meio, vai ocupar a metade toda. Width sempre é 100%.
 
 Resumo: Ocupa a página toda e todo box-level começa em uma nova linha</td>
@@ -983,20 +984,10 @@ Não ocupa a largura da página inteira, apenas o necessário para colocar o con
 <div> sempre é do tipo box-level</td>
     <td>Exemplo de tag
 <span> sempre é do tipo inline-level</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
+
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image31.png?raw=true)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image32.png?raw=true)
 
 
 ## Display: block;
@@ -1041,11 +1032,11 @@ Cria uma sobra na caixa.
 
 No DEVtools dá para acessar passando o mouse em cima dos e pontinhos (em pé) e clicando em:
 
-![image alt text](image_29.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image33.png?raw=true)
 
 Depois basta configurar o seletor como preferir
 
-![image alt text](image_30.png) Dica: Sempre usar a sombra preta e diminuir a transparência.
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image34.png?raw=true) Dica: Sempre usar a sombra preta e diminuir a transparência.
 
 ## Caixas com vértices arredondados
 
@@ -1202,13 +1193,13 @@ Letras maiúsculas
 
 		Todas as letras iguais em maiúsculo;
 
-![image alt text](image_31.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image36.png?raw=true)
 
 	 Font-variant: smallcase;
 
 		Todas as letras em maiúsculo mas as inciais maiores;
 
-![image alt text](image_32.png)
+![image alt text](https://github.com/thomasmontipo/cursoemvideo-html-css/blob/cursoemvideo/images/image37.png?raw=true)
 
 # Módulo 4
 
