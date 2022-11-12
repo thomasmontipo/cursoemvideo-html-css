@@ -1,0 +1,20 @@
+.container{
+    width: 95%vh;
+    height: 500px;
+    background-color: purple;
+    position: relative;
+    background-image: url(imagens/target001.png);
+    background-size: 100% 100%;
+}
+
+.conteudo{
+    width: 400px;
+    height: 200px;
+    background-color: rgba(255, 255, 0, 0.44);
+    position: absolute;
+    background-size: 100% 100%;
+    background-image: url(imagens/target001.png);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

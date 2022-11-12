@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'alice';
+    src: url(font/Alice\ in\ Wonderland.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'cute';
+    src: url(font/Cute\ And\ Active.otf) format('opentype');
+}
+
+/*Tipos de formatos
+    -   opentype (otf)
+    -   truetype (ttf)
+    :   embedded-opentypr
+    -   truetype-aat(Apple Advanced Typography)
+    -   SGV
+*/
+
+/*
+    Em HTML id=""   -> Em CSS é #
+    EM HTML class=""-> Em CSS é . (ponto)
+    */
+
+h1 {
+    text-align: center;
+    
+}
+
+.principal{
+    text-align: justify;
+    color: white;
+    background-color: black;
+}
+
+p{
+    text-indent: 6em;
+    color: blue;
+}
+
+h2{
+   text-align: center; 
+   color: white;
+   background-color: red;
+}
+
+p#principal{
+    text-decoration: underline;
+    text-align: right;
+    text-indent: 5%;
+}

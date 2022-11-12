@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: 80%;
+}
+
+header{
+    color: white;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-color: aquamarine;
+    font-size: 1.5em;
+    text-align: left;
+    padding-right: 30px;
+        margin: 10px;
+}
+
+main{
+    color: white;
+    text-indent: 60px;
+    margin: 10px;
+}
+
+article > aside {
+    text-align: right;
+    margin-top: 30px;
+    font-size: 1.3em;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 0.7em;
+}

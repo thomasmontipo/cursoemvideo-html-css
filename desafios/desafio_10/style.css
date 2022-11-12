@@ -1,0 +1,271 @@
+/*Configurações iniciais*/
+html, body{
+    margin: 0;
+    padding: 0;
+ }
+
+@font-face {
+    font-family: 'idroid';
+    src: url(fontes/idroid.otf) format('opentype');
+}
+
+/*Cabeçalho*/
+
+.header{
+    background-image: linear-gradient(180deg, #34b664, #08461a);
+    margin: 0%;
+    height: 100%;
+}
+
+.green-box{
+    background-image: linear-gradient(90deg, #34b664, white );
+
+}
+
+p{
+    text-align: justify;
+    text-indent: 5%;
+}
+
+.subtitle > p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-indent: 0%;
+}
+
+.li-nav{
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    display: inline;
+    margin-left: 10px;
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgba(255, 255, 255, 0.432);
+    color: #08461a;
+    font-weight: bold;
+}
+
+
+/*Configuração da tela de fundo do corpo do site*/
+body{
+    background-color: #e7e9c4;
+    box-shadow: 10px 5px 5px black;
+}
+
+/*Corpo do site*/
+
+main{
+    width: 85%;
+    margin: auto;
+    background-color: white;
+    box-shadow: 5px 2px 10px rgba(0, 0, 0, 0.24);
+    margin-bottom: 30px;
+}
+
+/*Títulos do corpo*/
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 15px;
+    font-weight: normal;
+}
+
+.h1-conteudo{
+    padding-top: 0;
+    margin-block-start: 0.8em;
+    font-family: 'idroid';
+    text-align: left;
+    color: black;
+    font-size: 1.5em;
+    padding: 5px;
+}
+
+h2{
+    padding-top: 0;
+    padding-left: 5px;
+    margin-block-start: 0.8em;
+    font-family: 'idroid';
+    font-weight: normal;
+}
+
+.links{
+    
+    text-decoration: none;
+}
+
+
+.link:hover{
+    background-color: rgba(255, 255, 255, 0.24);
+}
+
+ul{
+    padding-inline-start: 5px;
+    margin-block-end: 0%;
+    list-style-image: url(imagens/certo.png);
+}
+
+li{
+    display: block;
+    padding-right: 5px;
+    text-decoration: none;
+    list-style-image: url("imagens/certo.png");
+    display: list-item;
+}
+
+.conteudo{
+    padding: 10px;
+
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.coluna1{
+    display: inline-block;
+    width: 45%;
+    padding-left: 40px;
+
+}
+
+.coluna2{
+    display: inline-block;
+    width: 35%;
+    position: absolute;
+
+    
+}
+
+.cx_verde_geral{
+    background-color: #49d37b;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 95%;
+    margin-bottom: 10px;
+}
+
+.colunas{
+    display: inline-block;
+    width: 92.5%;
+    color: black;
+}
+
+.titulo_cx_verde{
+    margin: 0%;
+    padding: 5px 0px 5px 5px;
+    background-color: #08461a;
+    padding-left: 5px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 1.5em;
+    color: white;
+}
+
+.p_cx_verde{
+    padding: 5px;
+    text-indent: 40px;
+}
+
+div.video{
+    text-align: center;
+    background-color: #08461a;
+    padding-top: 30px;
+    padding-bottom: 45%;
+    margin: 0px 0px 30px 0px;
+    position: relative;
+}
+
+div.video > iframe{
+    position: absolute;
+    width: 95%;
+    height: 95%;
+    top: 2%;
+    left: 2%;
+}
+
+.bugdroid{
+    text-align: center;
+
+}
+
+.android{
+    text-align: center;
+}
+
+.android > p {
+    text-align: justify;
+    width: 80%;
+}
+
+img{
+    text-align: center;
+}
+
+.paragrafo{
+    padding: 10px;
+    margin-bottom: 30px;
+
+}
+
+@media (max-width: 600px){
+    .android{
+        text-align: center;
+        display: none;
+        width: 80%;
+    }
+    
+    .android-pequeno{
+        text-align: center;
+        display: block;
+        width: 80%;
+    }
+
+    .irina-block-grande{
+        text-align: center;
+        display: none;
+        width: 80%;
+    }
+    
+    .irina-block-pequeno{
+        text-align: center;
+        display: block;
+        width: 80%;
+    }
+
+    .colunas{
+
+        width: 92.5%;
+        color: black;
+    }
+    .coluna1{
+        width: 45%;
+        padding-left: 40px;
+    
+    }
+    
+    .coluna2{
+        width: 35%;
+    }
+
+}

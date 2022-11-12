@@ -1,0 +1,36 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+div > p{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+a:active{
+    color: red;
+}
+
+.audio::after {
+    content: '.mp3';
+    color: gray;
+}
+
+.video::after{
+    content: '.mp4';
+    color: gray;
+}
+
+.pdf::after{
+    content: '.pdf';
+    color: gray;
+}

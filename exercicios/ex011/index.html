@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens dinâmicas</title>
+</head>
+<body>
+    <h1>Imagens dinâmicas</h1>
+    <p>Tente abrir esse site em vários dispositivos</p>
+
+    <picture> <!--Parece uma imagem mas permite que você crie várias fonte / vários sources-->
+        <source media="(max-width:750px)" srcset="imagens/img_p.png" type="image/png"><!--Permite vários fontes para que troque a imagem pelo tamanho especificado no media (função media:type); srcset -> fonte da imagem; type->tipo da imagem -->
+        <source media="(max-width:1050px)" srcset="imagens/img_m.png" type="image/png">
+        <img src="imagens/img_g.png" alt="image/png">
+        
+    </picture>
+
+    <h1>Reproduzindo audio</h1>
+    <audio preload="metadata" controls>
+        <source src="midia/X2Download.com - 40 Minutos de DJ Guuga ( Especial 2022 ) (128 kbps).123" type="audio/mp3" >
+
+
+</audio> <!-- MP3, WAV, OGG-->
+</body>
+</html>

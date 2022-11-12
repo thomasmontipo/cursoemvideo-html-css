@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    /* Medidas absolutas
+    cm -> Centímetros
+    mm -> Milímetro
+    in -> Polegada
+    px -> Pixel
+    pt -> Ponto
+    pc -> Paica
+ 
+    Medidas Relativas
+    em -> Medida relativa ao tamanho atual da fonte (relativa ao M maiúculo da fonte)  
+    ex -> Medida relativa a altura x de uma fonte
+    rem -> Medida relativa ao root (altura que está configurada no Body)
+    vw -> ViewWidth -> Porcentagem da Viewport (Relativo a largura da ViewPort -> altura da tela do dispositivo que está sendo usado)
+    vh -> ViewHeight -> Porcentagem da ViewHeight (Relativo a altura da ViewPort -> altura da tela do dispositivo que está sendo usado)
+    % -> Porcentagem da ViewPort*/
+
+    font-style: italic;
+    font-weight: Lighter;
+    font-size: 3em;
+    font-family: 'work sans', sans-serif;
+
+    font: italic bolder 3em 'Work Sans', sans-serif;
+}
+
+text deco

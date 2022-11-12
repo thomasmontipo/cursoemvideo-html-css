@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'idroid';
+    src: url(fontes/idroid.otf) format('opentype');
+}
+
+body{
+    background-color: #e7e9c4;
+}
+
+.header{
+    background-image: linear-gradient(180deg, #34b664, #08461a);
+    margin: 0%;
+    height: 100%;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 15px;
+}
+
+h2{
+    padding-top: 0.83em;
+    margin-block-start: 0%;
+    font-family: 'idroid';
+}
+
+main{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+
+}
+
+.links{
+    text-decoration: none;
+}
+
+.subtitle{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+ul{
+    padding-inline-start: 5px;
+    margin-block-end: 0%;
+}
+
+li{
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+nav{
+    color: white;
+    border: 100px;
+    text-decoration: none;
+    padding-bottom: 5px;
+
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+.conteudo{
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
